@@ -8,10 +8,10 @@ class Person {
 		this.name=name;
 		this.age=age;
 	}
-	get _name{
+	get name{
 		return this.name;
 	}
-	set _age{
+	set age{
 		this.age=30;
 		return this.age;
 	}
