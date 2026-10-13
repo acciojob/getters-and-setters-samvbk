@@ -13,7 +13,6 @@ class Person {
 	}
 	set age{
 		this.age=30;
-		return this.age;
 	}
 }
 
